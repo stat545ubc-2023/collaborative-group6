@@ -5,6 +5,7 @@
 ##project summary
 The project is the practice of the markdown file understanding how to use Github and push/pull requests.
 
+
 ## Contents of the Repository (to be completed)
 * **README.md:** which provides a brief description of the repo
 * **troubleshooting-1.Rmd:** which is a troubleshooting exercise on Rmarkdown

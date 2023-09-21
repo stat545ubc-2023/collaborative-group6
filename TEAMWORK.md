@@ -9,7 +9,8 @@ This contract establishes the running responsibilities of the members of group 6
 * Iman will work on the **division of labour section**  on teamwork.md to ensure all team members are aware of the tasks they must complete and to avoid any miscommunication 
 
 ## Timing 
-Group 6 meets at 6 PM on Wednesday to work on the Milestone project. Each of our group members submits the pull requests one by one during the meeting.
+* Group 6 meets at 6 PM on Wednesday to work on the Milestone project, we go over the project together. 
+* Group 6 meets at 10:30 AM on Thursday. Each of the group members submits the pull requests and checks each other's work during the meeting.
 
 ## Communication
 * We will be communicating mostly on Slack but issues can also be reported using GitHub's *Issues* functionality.

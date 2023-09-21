@@ -5,13 +5,13 @@
 ### Personnel
 Name | Program
 ------------ | ------------
-Irvin Ng | Bioinformatics
-Iman Mir | Biomedical Engineering
-Hamidreza Galavi | Experimental Medicine
-Zoe (HeHan) Zhang | Geography
+[Irvin Ng](www.linkedin.com/in/irvin-ng-605424120) | Bioinformatics
+[Iman Mir](www.linkedin.com/in/iman-mir-a3563b229) | Biomedical Engineering
+[Hamidreza Galavi](https://www.linkedin.com/in/hamidreza-galavi-814b32258/) | Experimental Medicine
+[Zoe (HeHan) Zhang](https://ubc-micromet.github.io/) | Geography
 
 
-##project summary
+## Project summary
 The project is the practice of the markdown file understanding how to use Github and push/pull requests.
 
 

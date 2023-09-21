@@ -1,6 +1,6 @@
 # Group 6 Collaborative Project 
 
-This is a collaborative project between Irvin Ng, Hamidreza Galavi, Iman Mir, and Zoe Zhang for STAT545A.
+*This is a collaborative project between Irvin Ng, Hamidreza Galavi, Iman Mir, and Zoe Zhang for STAT545A.*
 
 ## Contents of the Repository (to be completed)
 * **README.md:** which provides a brief description of the repo

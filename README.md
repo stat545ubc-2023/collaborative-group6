@@ -1,6 +1,15 @@
 # Group 6 Collaborative Project 
 
-**This is a collaborative project between Irvin Ng, Hamidreza Galavi, Iman Mir, and Zoe Zhang for STAT545A.**
+**This is a collaborative project between Irvin Ng, Hamidreza Galavi, Iman Mir, and Zoe Zhang for STAT545A**
+
+### Personnel
+Name | Program
+------------ | ------------
+Irvin Ng | Bioinformatics
+Iman Mir | Biomedical Engineering
+Hamidreza Galavi | Experimental Medicine
+Zoe (HeHan) Zhang | Geography
+
 
 ##project summary
 The project is the practice of the markdown file understanding how to use Github and push/pull requests.

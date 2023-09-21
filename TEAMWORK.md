@@ -2,10 +2,14 @@
 This contract establishes the running responsibilities of the members of group 6. 
 
 ## Division of Labour
-
+* Each individual will take on a equal number of tasks for the projects
+* Individually Irvin will work on the communication section on teamwork.md
+* Zoe will work on the timing section on teamwork.md
+* Hamidreza will work on read.me
+* Iman will work on the division of labour section  on teamwork.md
 
 ## Timing 
-
+Group 6 meets at 6 PM on Wednesday to work on the Milestone project. Each of our group members submits the pull requests one by one during the meeting.
 
 ## Communication
 * We will be communicating mostly on Slack but issues can also be reported using GitHub's *Issues* functionality.

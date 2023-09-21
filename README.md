@@ -26,4 +26,4 @@ In order to reproduce the work done in this project, the following software is r
 1. R
 2. R-Studio
 
-In order to run and troubleshoot -1 you would need Rstudio as well as package Tidyverse installed.
+Note: In order to run troubleshoot-1.Rmd you would need Rstudio as well as the Tidyverse package installed.

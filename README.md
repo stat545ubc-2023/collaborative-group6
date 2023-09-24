@@ -5,8 +5,8 @@
 ### Personnel
 Name | Program
 ------------ | ------------
-[Irvin Ng](www.linkedin.com/in/irvin-ng-605424120) | Bioinformatics
-[Iman Mir](www.linkedin.com/in/iman-mir-a3563b229) | Biomedical Engineering
+[Irvin Ng](https://www.linkedin.com/in/irvin-ng-605424120) | Bioinformatics
+[Iman Mir](https://www.linkedin.com/in/iman-mir-a3563b229) | Biomedical Engineering
 [Hamidreza Galavi](https://www.linkedin.com/in/hamidreza-galavi-814b32258/) | Experimental Medicine
 [Zoe (HeHan) Zhang](https://ubc-micromet.github.io/) | Geography
 
@@ -26,4 +26,4 @@ In order to reproduce the work done in this project, the following software is r
 1. R
 2. R-Studio
 
-In order to run and troubleshoot -1 you would need Rstudio as well as package Tidyverse installed.
+Note: In order to run troubleshoot-1.Rmd you would need Rstudio as well as the Tidyverse package installed.

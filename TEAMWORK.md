@@ -7,7 +7,7 @@ This contract establishes the running responsibilities of the members of group 6
 * On their own, Zoe will work on the **timing section** on teamwork.md to ensure all members are aware of the meeting time
 * Hamidreza will work on the **readme.md** file to outline the how-to instructions for the project
 * Iman will work on the **division of labour section**  on teamwork.md to ensure all team members are aware of the tasks they must complete and to avoid any miscommunication
-* Each pull request will either specify a particular member to check the pull request prior to merging
+* Each pull request will either specify a particular member to check the pull request prior to merging or will ask for volunteers
 
 ## Timing 
 * Group 6 meets at 6 PM on Wednesday to work on the Milestone project, we go over the project together. 

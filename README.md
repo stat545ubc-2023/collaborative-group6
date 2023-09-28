@@ -12,7 +12,7 @@ Name | Program
 
 
 ## Project summary
-The project is the practice of the markdown file understanding how to use Github and push/pull requests.
+The project is the practice of the markdown file understanding how to use Github and push/pull requests. In this project, we troubleshoot the broken R code and rewrite the code to address instructions.
 
 
 ## Contents of the Repository (to be completed)

@@ -20,6 +20,8 @@ The project is the practice of the markdown file understanding how to use Github
 * **troubleshooting-1.Rmd:** which is a troubleshooting exercise on Rmarkdown
 * **troubleshooting-1.md:** which is the markdown output of the troubleshooting exercise
 * **TEAMWORK.md:** which is the team contract
+* **troubleshooting-2.Rmd** which is an excercise on R functions such as select, filter, mutate, across and more
+* **troubleshooting-2.md** which is the markdown output of the troubleshooting 2 excercise
 
 ## Software Required
 In order to reproduce the work done in this project, the following software is required:
